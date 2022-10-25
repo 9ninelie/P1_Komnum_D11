@@ -2,7 +2,7 @@
 Pengumpulan Praktikum 1 Komputasi Numerik D (Metode Bolzano) 2022.
 Dikerjakan oleh kelompok 11 Komnum D.
 
-**** Nama Anggota Kelompok 11 Komnum D:
+**Anggota Kelompok 11 Komnum D:**
 * Danno Denis Dhaifullah        5025211027
 * Arif Nugraha Santosa          5025211048
 * Laurivasya Gadhing Syahafidh	 5025211136
